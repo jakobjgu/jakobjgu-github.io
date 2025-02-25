@@ -2,6 +2,10 @@
 
 # Data Engineer
 
+## this is a test heading
+- bullet 1
+- bullet 2
+
 ### Education
 
 Neuroscience, PhD
